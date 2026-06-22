@@ -1,0 +1,11 @@
+variable "vm-name" {}
+variable "rg_name" {}
+variable "location" {}
+variable "size" {}
+variable "admin_user" {}
+variable "admin_pass" {}
+variable "nic-id" {}
+variable "ReadWrite" {}
+variable "Standard_LRS" {}
+variable "Canonical" {}
+variable "UbuntuServer" {}
